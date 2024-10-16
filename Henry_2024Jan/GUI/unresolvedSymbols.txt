@@ -1,0 +1,3 @@
+Path	Symbol	Reason
+Users/yandonglang/Library/CloudStorage/OneDrive-UNSW/1. YL_PHD/3. Code/Second year code/topobaric_surface/src/run_codegen.m	coder.config	undeployable
+Users/yandonglang/Library/CloudStorage/OneDrive-UNSW/1. YL_PHD/3. Code/Second year code/topobaric_surface/src/run_codegen.m	coder.typeof	undeployable
